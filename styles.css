@@ -91,7 +91,7 @@ h1 { margin-bottom: 0; font-size: clamp(30px, 4vw, 48px); line-height: 1.06; }
 .digest-card { display: grid; grid-template-columns: minmax(0, 1fr); min-width: 0; max-width: 100%; gap: 12px; padding: 14px; border: 1px solid transparent; border-radius: 8px; background: transparent; }
 .digest-card + .digest-card { border-top-color: var(--line); border-radius: 0; }
 .digest-card:hover, .digest-card.selected { border-color: #cdd8ca; border-radius: 8px; background: #f7f9f3; }
-.digest-select { display: block; width: 100%; min-width: 0; padding: 0; border: 0; background: transparent; color: inherit; text-align: left; }
+.digest-select { display: block; width: 100%; max-width: 100%; min-width: 0; padding: 0; border: 0; background: transparent; color: inherit; text-align: left; white-space: normal; overflow-wrap: anywhere; }
 .digest-main { min-width: 0; }
 .digest-meta, .detail-meta { display: flex; align-items: center; flex-wrap: wrap; min-width: 0; gap: 8px; margin-bottom: 8px; color: var(--muted); font-size: 12px; }
 .badge { display: inline-flex; align-items: center; max-width: 100%; min-height: 22px; border-radius: 999px; padding: 0 8px; border: 1px solid var(--line); background: transparent; color: var(--muted); font-size: 11px; font-weight: 800; white-space: normal; overflow-wrap: anywhere; }
@@ -135,7 +135,7 @@ h1 { margin-bottom: 0; font-size: clamp(30px, 4vw, 48px); line-height: 1.06; }
   .topbar { margin-bottom: 14px; }
   .topbar-actions { width: 100%; }
   .topbar-actions .primary-button { flex: 1; }
-  .workspace { width: calc(100% + 20px); margin-inline: -10px; border-inline: 0; border-radius: 0; }
+  .workspace { width: 100%; margin-inline: 0; border-radius: 8px; }
   .toolbar { padding: 10px; }
   .digest-list { padding: 6px; }
   .digest-card { grid-template-columns: minmax(0, 1fr); padding: 12px 10px; }
