@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# local server / caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# secrets / env
+.env
+*.token
+*credential*
+
+# temporary outputs
+/tmp/

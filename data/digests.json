@@ -1,0 +1,330 @@
+[
+  {
+    "id": "url-39de1fee49d51bcb",
+    "title": "Hermes Agent just got 10X Better (Agentic OS)",
+    "source": "youtube",
+    "sourceLabel": "YouTube",
+    "url": "https://www.youtube.com/watch?v=7xuWZ-3lyQE",
+    "summary": "Hermes와 Claude/Codex류 개발 환경을 연결해 Telegram 대화, 코드 작업, Obsidian 메모, GitHub 백업, persona/skill을 하나의 개인 Agentic OS로 묶는 방법을 설명한다. 핵심은 여러 AI 작업맥락이 끊기지 않도록 브리지와 대시보드, 메모리, cron을 연결하는 것이다.",
+    "application": "상현님 시스템에는 이미 Telegram profile, Obsidian, GitHub private repo, cron 기반 학습 대시보드가 일부 구현되어 있다. 추가 적용 후보는 Hermes 설정/스킬/학습 대시보드를 GitHub로 지속 백업하고, Codex 작업 결과와 학습 봇 입력을 같은 웹페이지에서 확인하는 구조를 강화하는 것이다.",
+    "duration": "31:08",
+    "tags": [
+      "Hermes",
+      "Agentic OS",
+      "Obsidian",
+      "Dashboard",
+      "GitHub",
+      "Cron",
+      "Telegram",
+      "기술구현",
+      "지식관리",
+      "업무"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리",
+      "업무"
+    ],
+    "status": "적용 후보",
+    "read": false,
+    "saved": true,
+    "failed": false,
+    "createdAt": "2026-05-18T00:06:45+09:00",
+    "updatedAt": "2026-05-18T00:06:45+09:00",
+    "notes": [
+      "외부 SaaS 연동은 권한과 민감정보 위험을 별도 검토한다.",
+      "이미 구현된 Telegram/profile/cron 구조와 중복되는 제안은 제외한다.",
+      "중복 확인: 같은 영상이 이미 data/digests.json에 있었고, 이번 입력 URL의 si 추적 파라미터는 정규화해 동일 URL로 병합한다.",
+      "이미 구현됨: Telegram/Hermes profile, cron, GitHub private repo, 학습 대시보드는 오늘 기본 구현 완료.",
+      "추가 적용: Codex 앱 작업물과 Hermes 학습 저장소가 분리되지 않도록 canonical dashboard repo를 기준으로 운영한다.",
+      "위험: GitHub/OAuth/Telegram token은 절대 웹페이지나 저장소에 넣지 않는다."
+    ],
+    "criteria": {
+      "duplicate": true,
+      "alreadyImplemented": "부분 구현됨",
+      "reducesRepeatedWork": true,
+      "complexityBenefit": "높음: 한 번 연결하면 반복 학습/저장/검증 비용 감소",
+      "sensitiveRisk": "중간: 계정·토큰·GitHub 권한 관리 필요",
+      "oneWeekExperiment": true
+    }
+  },
+  {
+    "id": "url-8c06ec6a67d0b68b",
+    "title": "Hermes /goal is insane… just watch",
+    "source": "youtube",
+    "sourceLabel": "YouTube",
+    "url": "https://www.youtube.com/watch?v=9oOZ3PB6n4Y",
+    "summary": "Hermes Agent의 /goal 기능을 소개한다. 단순 반복 루프와 달리 명확한 목표, 완료 기준, judge 모델, sub-goal, turn 제한을 두고 장시간 작업을 자율적으로 수행하게 만드는 방식이 핵심이다. Codex CLI의 /goal과 비교하면서 Hermes를 CEO, Codex를 CTO처럼 역할 분담시키는 장기 실행형 작업 흐름을 제안한다.",
+    "application": "상현님 시스템에는 '작동할 때까지 설계-구현-검증 반복'이 필요한 작업에 적용 가능하다. 학습 대시보드 운영에서는 goal을 'AI 기사 수집→digest 병합→테스트→git push→Telegram 보고'로 고정하고, judge/검증 기준을 테스트와 브라우저 콘솔 에러 없음으로 두는 방식이 적합하다.",
+    "duration": "26:04",
+    "tags": [
+      "Hermes",
+      "goal",
+      "Codex",
+      "Agent",
+      "Automation",
+      "Testing",
+      "기술구현",
+      "업무",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "업무",
+      "지식관리"
+    ],
+    "status": "적용 후보",
+    "read": false,
+    "saved": true,
+    "failed": false,
+    "createdAt": "2026-05-18T00:06:45+09:00",
+    "updatedAt": "2026-05-18T00:06:45+09:00",
+    "notes": [
+      "신규 학습자료: 기존 data/digests.json에 없던 YouTube 영상.",
+      "핵심 아이디어: 목표, 완료 조건, 테스트 방법을 함께 주면 에이전트가 장시간 자율 작업을 더 안전하게 수행한다.",
+      "즉시 적용: cron prompt와 runner script에 명확한 성공 조건을 넣어 둔 현재 구조와 잘 맞는다.",
+      "주의: 장시간 자율 실행은 비용·권한·외부 발송 위험이 있으므로 git push, 이메일 발송, 계정 연동은 최소 권한과 테스트 후 허용한다."
+    ],
+    "criteria": {
+      "duplicate": false,
+      "alreadyImplemented": "부분 구현됨: cron runner와 테스트 루프는 구현, /goal 전용 명령 자체는 별도 검토",
+      "reducesRepeatedWork": true,
+      "complexityBenefit": "높음: 반복 구현/검증 작업 자동화에 직접 연결",
+      "sensitiveRisk": "중간: 장시간 자율 실행과 외부 연동 권한 관리 필요",
+      "oneWeekExperiment": true
+    }
+  },
+  {
+    "id": "sample-cron-pipeline",
+    "title": "크론 기반 콘텐츠 수집 파이프라인 설계",
+    "source": "web",
+    "sourceLabel": "Web",
+    "url": "https://example.com/cron-url-pipeline",
+    "summary": "URL 큐, 메타데이터 추출, 요약 생성, 실패 재시도, 리스트 저장소를 분리하면 작은 규모에서도 안정적으로 운영된다.",
+    "application": "학습봇은 Telegram에서 받은 URL을 JSON에 쌓고, 대시보드는 같은 JSON을 읽어 최신 리스트를 보여준다.",
+    "duration": "8 min",
+    "tags": [
+      "cron",
+      "pipeline",
+      "storage"
+    ],
+    "domains": [],
+    "status": "saved",
+    "read": false,
+    "saved": true,
+    "failed": false,
+    "createdAt": "2026-05-17T20:20:00+09:00",
+    "updatedAt": "2026-05-18T00:06:45+09:00",
+    "notes": [],
+    "criteria": {}
+  },
+  {
+    "id": "sample-threads-research",
+    "title": "Threads에서 화제가 된 제품 리서치 메모",
+    "source": "threads",
+    "sourceLabel": "Threads",
+    "url": "https://www.threads.net/",
+    "summary": "짧은 게시글 묶음에서 반복적으로 언급된 문제 정의와 사용자 반응을 추출해 다음 인터뷰 질문으로 연결할 수 있다.",
+    "application": "반복 등장하는 아이디어만 backlog 후보로 올리고 단발성 의견은 보류 처리한다.",
+    "duration": "Thread",
+    "tags": [
+      "research",
+      "product",
+      "social"
+    ],
+    "domains": [],
+    "status": "new",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-05-17T19:40:00+09:00",
+    "updatedAt": "2026-05-18T00:06:45+09:00",
+    "notes": [],
+    "criteria": {}
+  },
+  {
+    "id": "url-20383a0947db90dd",
+    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "source": "web",
+    "sourceLabel": "OpenAI Blog",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "OpenAI Blog",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-05-16T09:00:00+09:00",
+    "updatedAt": "2026-05-18T00:06:45+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
+  },
+  {
+    "id": "url-e46d28eec38083e8",
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "source": "web",
+    "sourceLabel": "OpenAI Blog",
+    "url": "https://openai.com/index/databricks",
+    "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "OpenAI Blog",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-05-15T09:00:00+09:00",
+    "updatedAt": "2026-05-18T00:06:45+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
+  },
+  {
+    "id": "url-baeb7ae75753a1c1",
+    "title": "A new personal finance experience in ChatGPT",
+    "source": "web",
+    "sourceLabel": "OpenAI Blog",
+    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "OpenAI Blog",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-05-15T09:00:00+09:00",
+    "updatedAt": "2026-05-18T00:06:45+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
+  },
+  {
+    "id": "url-326607290d218cfb",
+    "title": "Sea's View on the Future of Agentic Software Development with Codex",
+    "source": "web",
+    "sourceLabel": "OpenAI Blog",
+    "url": "https://openai.com/index/sea-david-chen",
+    "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "OpenAI Blog",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-05-15T05:30:00+09:00",
+    "updatedAt": "2026-05-18T00:06:45+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
+  },
+  {
+    "id": "url-4a3442a5ca8c1935",
+    "title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "source": "web",
+    "sourceLabel": "OpenAI Blog",
+    "url": "https://openai.com/index/building-codex-windows-sandbox",
+    "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "OpenAI Blog",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-05-13T20:00:00+09:00",
+    "updatedAt": "2026-05-18T00:06:45+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
+  }
+]
