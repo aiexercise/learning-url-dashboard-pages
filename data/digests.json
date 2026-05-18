@@ -1,5 +1,35 @@
 [
   {
+    "id": "url-281abf02edb0fb72",
+    "title": "빚더미였던 제가, 0원으로 다시 시작한다면 | 이 AI 두 개만 씁니다",
+    "source": "youtube",
+    "sourceLabel": "YouTube",
+    "url": "https://www.youtube.com/watch?v=h04et9TuFQs",
+    "summary": "AI놀자 채널 영상. 빚더미에서 다시 시작했던 경험을 바탕으로, 2026년에 0원 또는 마이너스 상태에서 다시 시작한다면 Gemini와 Claude 두 도구만으로 6단계를 밟겠다고 설명한다. 핵심 순서는 ① Gemini로 이키가이 인터뷰를 받아 내가 할 일을 정하기 ② 만들기 전에 먼저 팔아 시장성을 검증하기 ③ 검증된 뒤 MVP를 만들기 ④ 실제 가격대를 조사하고 첫 1원을 받기 ⑤ 반복 업무를 자동화하기 ⑥ 완벽한 준비보다 오늘 바로 시작하기다. AI 기능 자체보다 '무엇을 시킬 것인지'와 시장 검증을 먼저 잡는 것이 핵심 메시지다.",
+    "application": "상현님 시스템에는 적용 후보. 이미 Hermes/Codex/Claude/Gemini류 도구와 Telegram·GitHub·대시보드 자동화가 구축되어 있으므로, 이 영상의 가치는 새 도구 도입보다 '아이디어→시장 검증→MVP→자동화' 순서 체크리스트로 쓰는 데 있다. 1주 실험은 Gemini/Claude에게 상현님 관심사 기반 이키가이 인터뷰를 시키고, 나온 후보 중 1개만 사전 검증 메시지/랜딩 초안으로 만들어 실제 반응을 확인하는 것. 투자/매매 지시가 아니라 1인 사업·업무 자동화 리서치 관점으로 보관한다.",
+    "duration": "18:42",
+    "tags": [
+      "AI놀자",
+      "Gemini",
+      "Claude",
+      "MVP",
+      "시장검증",
+      "자동화",
+      "이키가이",
+      "1인사업",
+      "YouTube"
+    ],
+    "domains": [],
+    "status": "적용 후보",
+    "read": false,
+    "saved": true,
+    "failed": false,
+    "createdAt": "2026-05-18T19:57:34+09:00",
+    "updatedAt": "2026-05-18T19:57:34+09:00",
+    "notes": [],
+    "criteria": {}
+  },
+  {
     "id": "url-39de1fee49d51bcb",
     "title": "Hermes Agent just got 10X Better (Agentic OS)",
     "source": "youtube",
@@ -30,7 +60,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T00:06:45+09:00",
-    "updatedAt": "2026-05-18T07:29:56+09:00",
+    "updatedAt": "2026-05-18T19:57:34+09:00",
     "notes": [
       "외부 SaaS 연동은 권한과 민감정보 위험을 별도 검토한다.",
       "이미 구현된 Telegram/profile/cron 구조와 중복되는 제안은 제외한다.",
@@ -78,7 +108,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T00:06:45+09:00",
-    "updatedAt": "2026-05-18T07:29:56+09:00",
+    "updatedAt": "2026-05-18T19:57:34+09:00",
     "notes": [
       "신규 학습자료: 기존 data/digests.json에 없던 YouTube 영상.",
       "핵심 아이디어: 목표, 완료 조건, 테스트 방법을 함께 주면 에이전트가 장시간 자율 작업을 더 안전하게 수행한다.",
@@ -114,7 +144,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-17T20:20:00+09:00",
-    "updatedAt": "2026-05-18T07:29:56+09:00",
+    "updatedAt": "2026-05-18T19:57:34+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -138,7 +168,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-17T19:40:00+09:00",
-    "updatedAt": "2026-05-18T07:29:56+09:00",
+    "updatedAt": "2026-05-18T19:57:34+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -167,7 +197,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-16T09:00:00+09:00",
-    "updatedAt": "2026-05-18T07:29:56+09:00",
+    "updatedAt": "2026-05-18T19:57:34+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -204,7 +234,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T09:00:00+09:00",
-    "updatedAt": "2026-05-18T07:29:56+09:00",
+    "updatedAt": "2026-05-18T19:57:34+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -241,7 +271,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T09:00:00+09:00",
-    "updatedAt": "2026-05-18T07:29:56+09:00",
+    "updatedAt": "2026-05-18T19:57:34+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -278,7 +308,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T05:30:00+09:00",
-    "updatedAt": "2026-05-18T07:29:56+09:00",
+    "updatedAt": "2026-05-18T19:57:34+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -315,7 +345,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-13T20:00:00+09:00",
-    "updatedAt": "2026-05-18T07:29:56+09:00",
+    "updatedAt": "2026-05-18T19:57:34+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
