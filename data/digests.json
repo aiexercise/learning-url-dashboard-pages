@@ -36,7 +36,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T21:12:17+09:00",
-    "updatedAt": "2026-05-18T21:12:17+09:00",
+    "updatedAt": "2026-05-19T07:11:07+09:00",
     "notes": [],
     "criteria": {
       "duplicate": false,
@@ -72,9 +72,120 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T19:57:34+09:00",
-    "updatedAt": "2026-05-18T21:12:17+09:00",
+    "updatedAt": "2026-05-19T07:11:07+09:00",
     "notes": [],
     "criteria": {}
+  },
+  {
+    "id": "url-6f1209c6c0e07aba",
+    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+    "source": "web",
+    "sourceLabel": "OpenAI Blog",
+    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "OpenAI Blog",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-05-18T19:00:00+09:00",
+    "updatedAt": "2026-05-19T07:11:07+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
+  },
+  {
+    "id": "url-674472930f49e0ba",
+    "title": "하노이 과학기술대학교의 \"AI for IMPACT\" 과정을 통해 인공지능을 마스터할 수 있는 기회입니다. - Vietnam.vn",
+    "source": "web",
+    "sourceLabel": "Google News AI",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2NCc2tNQmtBaHRKMC1tbkxhbGRUc1JYNTMtcUNFdWd6VGZBdkNFdm5WT1M2dlNjNk9WQmZueW05Q1B5TFk2bFlLbU1BQ182U3p2YnFEM1hraVp5ZXU4UUVUNlZrNFhQRTRXaUNOT0ZVaEk2YjRrZl9fRmV3eW90S19Dc0g0SThOcWRjSEdLMUVVOWNpNzVBcjRJZkU?oc=5",
+    "summary": "하노이 과학기술대학교의 \"AI for IMPACT\" 과정을 통해 인공지능을 마스터할 수 있는 기회입니다. Vietnam.vn",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "Google News AI",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-05-18T13:20:24+09:00",
+    "updatedAt": "2026-05-19T07:11:07+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
+  },
+  {
+    "id": "url-555793a5951262b4",
+    "title": "\"일도 빠르고 안 쉰다\"⋯AI 로봇, 100시간 넘게 택배 분류 중 - 네이트",
+    "source": "web",
+    "sourceLabel": "Google News AI",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMZ1BXbTNGTExKZURqRzZidWNkbmZyb3Jjb05pNzJfcTEtamZleC1SV0prRGMtemIxbzBDdkQySTdqLUx1STI3a2xhek5JNW82bUpF?oc=5",
+    "summary": "\"일도 빠르고 안 쉰다\"⋯AI 로봇, 100시간 넘게 택배 분류 중 네이트",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "Google News AI",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-05-18T10:02:00+09:00",
+    "updatedAt": "2026-05-19T07:11:07+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
   },
   {
     "id": "url-39de1fee49d51bcb",
@@ -107,7 +218,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T00:06:45+09:00",
-    "updatedAt": "2026-05-18T21:12:17+09:00",
+    "updatedAt": "2026-05-19T07:11:07+09:00",
     "notes": [
       "외부 SaaS 연동은 권한과 민감정보 위험을 별도 검토한다.",
       "이미 구현된 Telegram/profile/cron 구조와 중복되는 제안은 제외한다.",
@@ -155,7 +266,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T00:06:45+09:00",
-    "updatedAt": "2026-05-18T21:12:17+09:00",
+    "updatedAt": "2026-05-19T07:11:07+09:00",
     "notes": [
       "신규 학습자료: 기존 data/digests.json에 없던 YouTube 영상.",
       "핵심 아이디어: 목표, 완료 조건, 테스트 방법을 함께 주면 에이전트가 장시간 자율 작업을 더 안전하게 수행한다.",
@@ -191,7 +302,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-17T20:20:00+09:00",
-    "updatedAt": "2026-05-18T21:12:17+09:00",
+    "updatedAt": "2026-05-19T07:11:07+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -215,7 +326,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-17T19:40:00+09:00",
-    "updatedAt": "2026-05-18T21:12:17+09:00",
+    "updatedAt": "2026-05-19T07:11:07+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -244,7 +355,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-16T09:00:00+09:00",
-    "updatedAt": "2026-05-18T21:12:17+09:00",
+    "updatedAt": "2026-05-19T07:11:07+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -281,7 +392,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T09:00:00+09:00",
-    "updatedAt": "2026-05-18T21:12:17+09:00",
+    "updatedAt": "2026-05-19T07:11:07+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -318,7 +429,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T09:00:00+09:00",
-    "updatedAt": "2026-05-18T21:12:17+09:00",
+    "updatedAt": "2026-05-19T07:11:07+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -355,7 +466,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T05:30:00+09:00",
-    "updatedAt": "2026-05-18T21:12:17+09:00",
+    "updatedAt": "2026-05-19T07:11:07+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -392,7 +503,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-13T20:00:00+09:00",
-    "updatedAt": "2026-05-18T21:12:17+09:00",
+    "updatedAt": "2026-05-19T07:11:07+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
