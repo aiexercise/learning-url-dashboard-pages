@@ -1,5 +1,52 @@
 [
   {
+    "id": "url-4e0f45f7bef42ec6",
+    "title": "Stanford CS153 Frontier Systems | Jensen Huang from NVIDIA on the Compute Behind Intelligence",
+    "source": "youtube",
+    "sourceLabel": "YouTube",
+    "url": "https://www.youtube.com/watch?v=tsQB0n0YV3k",
+    "summary": "Stanford CS153 강의에서 NVIDIA CEO Jensen Huang이 AI 시대의 컴퓨팅 재발명을 설명한다. 핵심은 64년간 유지된 범용 컴퓨팅 모델이 사전 작성된 소프트웨어 실행에서 실시간 생성·추론·에이전트 실행으로 바뀌고 있다는 점이다. NVIDIA의 차별점은 칩 하나가 아니라 CPU, GPU, 메모리, 네트워크, 컴파일러, 랙 스케일 시스템을 함께 설계하는 extreme co-design이며, 이로 인해 Moore's Law 수준을 넘어 10년간 10만~100만 배 규모의 성능 향상이 가능했다고 주장한다. Hopper는 pre-training, Grace Blackwell NVLink72는 inference/decode, Vera Rubin은 agents, 이후 세대는 agents/sub-agents/swarm workloads를 겨냥한다고 설명한다. MFU 같은 단순 FLOPS 활용률보다 tokens-per-watt, 실제 eval, 메모리·대역폭·네트워크까지 포함한 시스템 효율을 봐야 한다는 메시지도 중요하다. 오픈 모델은 안전성, 투명성, 과소대표 언어와 과학 도메인 확산을 위해 필요하다고 본다.",
+    "application": "상현님 시스템에는 적용 후보. 직접 구현 과제라기보다 AI 인프라 투자 관찰과 에이전트 자동화 설계 원칙으로 가치가 크다. 투자 관점에서는 NVIDIA를 단순 GPU 판매 기업이 아니라 'AI 작업량별 시스템 아키텍처를 선제 설계하는 회사'로 추적해야 하며, 매수/매도 지시가 아니라 tokens-per-watt, inference 비중, agent workload, 전력·네트워크 병목을 리스크 체크 항목으로 둔다. 기술구현 관점에서는 상현님 Hermes/Codex/Gemini/Claude 자동화도 단일 모델 성능보다 입력 데이터, 메모리, 평가 기준, 도구 연결, 반복 실행 비용까지 함께 설계해야 한다는 원칙을 준다. 1주 실험은 현재 이키가이 수익화 파일럿에서 '고객 인터뷰→Gemini 설계→Claude 구현→Telegram/대시보드 출력' 흐름의 병목을 기록하고, 모델 성능이 아니라 처리시간·수정횟수·결과품질 기준으로 평가하는 것이다.",
+    "duration": "1:08:24",
+    "tags": [
+      "Jensen Huang",
+      "NVIDIA",
+      "Stanford CS153",
+      "AI Infrastructure",
+      "Co-design",
+      "Agents",
+      "Inference",
+      "Tokens per watt",
+      "Open Models",
+      "Investment Research",
+      "YouTube",
+      "기술구현",
+      "투자",
+      "업무",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "투자",
+      "업무",
+      "지식관리"
+    ],
+    "status": "적용 후보",
+    "read": false,
+    "saved": true,
+    "failed": false,
+    "createdAt": "2026-05-18T21:12:17+09:00",
+    "updatedAt": "2026-05-18T21:12:17+09:00",
+    "notes": [],
+    "criteria": {
+      "duplicate": false,
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "risk": "투자 판단으로 과잉 일반화하지 말고 AI 인프라·전력·네트워크·에이전트 수요 관찰 체크리스트로만 사용"
+    }
+  },
+  {
     "id": "url-281abf02edb0fb72",
     "title": "빚더미였던 제가, 0원으로 다시 시작한다면 | 이 AI 두 개만 씁니다",
     "source": "youtube",
@@ -25,7 +72,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T19:57:34+09:00",
-    "updatedAt": "2026-05-18T19:57:34+09:00",
+    "updatedAt": "2026-05-18T21:12:17+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -60,7 +107,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T00:06:45+09:00",
-    "updatedAt": "2026-05-18T19:57:34+09:00",
+    "updatedAt": "2026-05-18T21:12:17+09:00",
     "notes": [
       "외부 SaaS 연동은 권한과 민감정보 위험을 별도 검토한다.",
       "이미 구현된 Telegram/profile/cron 구조와 중복되는 제안은 제외한다.",
@@ -108,7 +155,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T00:06:45+09:00",
-    "updatedAt": "2026-05-18T19:57:34+09:00",
+    "updatedAt": "2026-05-18T21:12:17+09:00",
     "notes": [
       "신규 학습자료: 기존 data/digests.json에 없던 YouTube 영상.",
       "핵심 아이디어: 목표, 완료 조건, 테스트 방법을 함께 주면 에이전트가 장시간 자율 작업을 더 안전하게 수행한다.",
@@ -144,7 +191,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-17T20:20:00+09:00",
-    "updatedAt": "2026-05-18T19:57:34+09:00",
+    "updatedAt": "2026-05-18T21:12:17+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -168,7 +215,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-17T19:40:00+09:00",
-    "updatedAt": "2026-05-18T19:57:34+09:00",
+    "updatedAt": "2026-05-18T21:12:17+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -197,7 +244,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-16T09:00:00+09:00",
-    "updatedAt": "2026-05-18T19:57:34+09:00",
+    "updatedAt": "2026-05-18T21:12:17+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -234,7 +281,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T09:00:00+09:00",
-    "updatedAt": "2026-05-18T19:57:34+09:00",
+    "updatedAt": "2026-05-18T21:12:17+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -271,7 +318,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T09:00:00+09:00",
-    "updatedAt": "2026-05-18T19:57:34+09:00",
+    "updatedAt": "2026-05-18T21:12:17+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -308,7 +355,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T05:30:00+09:00",
-    "updatedAt": "2026-05-18T19:57:34+09:00",
+    "updatedAt": "2026-05-18T21:12:17+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -345,7 +392,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-13T20:00:00+09:00",
-    "updatedAt": "2026-05-18T19:57:34+09:00",
+    "updatedAt": "2026-05-18T21:12:17+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
