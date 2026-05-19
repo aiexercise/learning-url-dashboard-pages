@@ -1,5 +1,50 @@
 [
   {
+    "id": "url-3d0ca58cc70297c6",
+    "title": "“신입 대신 50~60대”…AI 일자리 변동 ‘시작’ [9시 뉴스] / KBS 2026.05.18.",
+    "source": "youtube",
+    "sourceLabel": "YouTube",
+    "url": "https://www.youtube.com/watch?v=T1UN2NARHmo",
+    "summary": "KBS 뉴스 리포트. AI 활용이 확산되면서 기업이 원하는 인력 구조가 바뀌고 있다는 내용이다. 법무법인 사례에서는 AI가 자료조사와 소송장 초안 같은 기초 업무를 30초 안에 처리하고, 시니어 변호사는 검수와 감독을 맡는 구조로 바뀌면서 신규 채용이 줄었다고 설명한다. 콜센터도 기본 문의는 AI 챗봇이 처리하고, 고난도 상담은 경험 많은 상담사가 맡으며 상담 데이터는 AI 학습에 쓰인다. AI 사용이 많은 업종에서 20대 일자리는 줄고 50대 일자리는 늘었다는 흐름과 함께, 신입이 배우고 성장하는 사다리가 끊길 수 있다는 우려를 제기한다.",
+    "application": "상현님 시스템에는 적용 후보. 이 영상은 방금 논의한 크몽/부업 방향에 직접 연결된다. AI 시대에는 단순 신입형 실행 업무보다 '경험 있는 사람이 AI를 지휘하고 검수하는 일'의 가치가 커진다는 신호다. 상현님 부업도 단순 AI 대행이나 자료 입력이 아니라, 고객의 업무 맥락을 듣고 AI에게 시킬 일을 설계한 뒤 결과물을 검수·개선하는 'AI 업무흐름 진단/자동화 설계' 포지션이 더 유리하다. 1주 실험은 크몽 등록 전에 지인 10명에게 5만 원 파일럿 제안을 보내고, 응답 내용에서 고객이 실제로 맡기고 싶어 하는 '기초업무 자동화 + 시니어 검수' 유형을 분류하는 것이다.",
+    "duration": "2:03",
+    "tags": [
+      "KBS News",
+      "AI 일자리",
+      "시니어 채용",
+      "신입 채용",
+      "업무 자동화",
+      "AI 업무흐름",
+      "크몽 부업",
+      "시장검증",
+      "YouTube",
+      "업무",
+      "기술구현",
+      "생활개선",
+      "지식관리"
+    ],
+    "domains": [
+      "업무",
+      "기술구현",
+      "생활개선",
+      "지식관리"
+    ],
+    "status": "적용 후보",
+    "read": false,
+    "saved": true,
+    "failed": false,
+    "createdAt": "2026-05-19T10:22:21+09:00",
+    "updatedAt": "2026-05-19T10:22:21+09:00",
+    "notes": [],
+    "criteria": {
+      "duplicate": false,
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "risk": "뉴스 사례를 일반화해 직업 불안으로만 소비하지 말고, 상현님 부업 포지셔닝과 AI 업무흐름 설계 검증에 연결"
+    }
+  },
+  {
     "id": "url-4e0f45f7bef42ec6",
     "title": "Stanford CS153 Frontier Systems | Jensen Huang from NVIDIA on the Compute Behind Intelligence",
     "source": "youtube",
@@ -36,7 +81,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T21:12:17+09:00",
-    "updatedAt": "2026-05-19T07:11:07+09:00",
+    "updatedAt": "2026-05-19T10:22:21+09:00",
     "notes": [],
     "criteria": {
       "duplicate": false,
@@ -72,7 +117,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T19:57:34+09:00",
-    "updatedAt": "2026-05-19T07:11:07+09:00",
+    "updatedAt": "2026-05-19T10:22:21+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -101,7 +146,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-18T19:00:00+09:00",
-    "updatedAt": "2026-05-19T07:11:07+09:00",
+    "updatedAt": "2026-05-19T10:22:21+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -138,7 +183,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-18T13:20:24+09:00",
-    "updatedAt": "2026-05-19T07:11:07+09:00",
+    "updatedAt": "2026-05-19T10:22:21+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -175,7 +220,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-18T10:02:00+09:00",
-    "updatedAt": "2026-05-19T07:11:07+09:00",
+    "updatedAt": "2026-05-19T10:22:21+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -218,7 +263,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T00:06:45+09:00",
-    "updatedAt": "2026-05-19T07:11:07+09:00",
+    "updatedAt": "2026-05-19T10:22:21+09:00",
     "notes": [
       "외부 SaaS 연동은 권한과 민감정보 위험을 별도 검토한다.",
       "이미 구현된 Telegram/profile/cron 구조와 중복되는 제안은 제외한다.",
@@ -266,7 +311,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T00:06:45+09:00",
-    "updatedAt": "2026-05-19T07:11:07+09:00",
+    "updatedAt": "2026-05-19T10:22:21+09:00",
     "notes": [
       "신규 학습자료: 기존 data/digests.json에 없던 YouTube 영상.",
       "핵심 아이디어: 목표, 완료 조건, 테스트 방법을 함께 주면 에이전트가 장시간 자율 작업을 더 안전하게 수행한다.",
@@ -302,7 +347,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-17T20:20:00+09:00",
-    "updatedAt": "2026-05-19T07:11:07+09:00",
+    "updatedAt": "2026-05-19T10:22:21+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -326,7 +371,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-17T19:40:00+09:00",
-    "updatedAt": "2026-05-19T07:11:07+09:00",
+    "updatedAt": "2026-05-19T10:22:21+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -355,7 +400,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-16T09:00:00+09:00",
-    "updatedAt": "2026-05-19T07:11:07+09:00",
+    "updatedAt": "2026-05-19T10:22:21+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -392,7 +437,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T09:00:00+09:00",
-    "updatedAt": "2026-05-19T07:11:07+09:00",
+    "updatedAt": "2026-05-19T10:22:21+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -429,7 +474,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T09:00:00+09:00",
-    "updatedAt": "2026-05-19T07:11:07+09:00",
+    "updatedAt": "2026-05-19T10:22:21+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -466,7 +511,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T05:30:00+09:00",
-    "updatedAt": "2026-05-19T07:11:07+09:00",
+    "updatedAt": "2026-05-19T10:22:21+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -503,7 +548,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-13T20:00:00+09:00",
-    "updatedAt": "2026-05-19T07:11:07+09:00",
+    "updatedAt": "2026-05-19T10:22:21+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
