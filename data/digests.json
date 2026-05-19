@@ -1,5 +1,55 @@
 [
   {
+    "id": "url-849f2abaac2281a4",
+    "title": "NEW Google Gemini AI Agent is INSANE!",
+    "source": "youtube",
+    "sourceLabel": "YouTube",
+    "url": "https://www.youtube.com/watch?v=n-d8lCkLVI4",
+    "summary": "Google I/O 2026 전 유출 정보를 바탕으로 Gemini의 새 기능을 설명하는 영상이다. 핵심 내용은 Gemini 데스크톱 앱이 일반 채팅과 Spark Mode로 나뉘고, Spark가 로컬 파일·폴더를 읽고 스크립트를 실행하며 Google Drive와 동기화되는 에이전트 작업공간이 될 수 있다는 주장이다. Stream to Cursor는 현재 커서가 놓인 앱/문맥을 Gemini가 이해해 바로 작업을 이어받는 오버레이로 설명되고, Gemini Live는 화면 위에 상시 떠 있는 음성 인터페이스로 소개된다. 또한 로컬 skills 지원, Veo 영상 생성 통합, Gemini 3.5 Pro/3.2 Flash 전환 가능성, Claude·Hermes·NotebookLM 등을 묶는 Agent OS식 워크플로우를 제안한다. 단, 영상 자체도 구글 공식 발표 전 유출 기반이라고 밝히므로 사실 여부와 출시 범위는 확인이 필요하다.",
+    "application": "상현님 시스템에는 적용 후보. 상현님이 이미 만들고 있는 Telegram→Hermes→대시보드 학습 파이프라인과 방향이 거의 같다. 핵심 적용점은 새 도구 자체가 아니라 '로컬 파일 접근 + 화면 문맥 이해 + 음성 상시 인터페이스 + 재사용 가능한 skill/script'를 하나의 개인 AI 운영체제로 묶는 설계 원칙이다. 다만 유출·홍보성 영상이므로 즉시 구현 결정보다는, Google I/O 공식 발표 후 실제 제공 기능만 확인해 상현님 Hermes/Codex/Gemini/Claude 구조와 중복되는지 판단하는 것이 맞다. 1주 실험은 현재 learning-url-dashboard 처리 루틴을 하나의 skill/script로 더 명확히 정리하고, 링크 입력→요약→적용 판단→ingest→테스트→배포까지 사람이 개입하는 지점을 줄이는 것이다.",
+    "duration": "13:41",
+    "tags": [
+      "Gemini",
+      "Google I/O 2026",
+      "AI Agent",
+      "Desktop Agent",
+      "Spark Mode",
+      "Stream to Cursor",
+      "Gemini Live",
+      "Local Skills",
+      "Veo",
+      "Agent OS",
+      "Hermes",
+      "NotebookLM",
+      "YouTube",
+      "기술구현",
+      "업무",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "업무",
+      "지식관리"
+    ],
+    "status": "적용 후보",
+    "read": false,
+    "saved": true,
+    "failed": false,
+    "createdAt": "2026-05-19T20:08:30+09:00",
+    "updatedAt": "2026-05-19T20:08:30+09:00",
+    "notes": [
+      "한국어 자막은 없어서 영어 transcript와 yt-dlp 메타데이터 기준으로 처리함.",
+      "유출 기반·홍보성 표현이 강하므로 공식 발표 후 재확인 필요."
+    ],
+    "criteria": {
+      "duplicate": false,
+      "alreadyImplemented": "부분 구현됨: Hermes/TG/대시보드 파이프라인은 있으나 화면 문맥·로컬 skill 기반 데스크톱 에이전트는 별도 검토 필요",
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "risk": "공식 발표 전 유출 기반 정보이며 과장된 마케팅 가능성. 민감 파일 접근·로컬 실행 권한 설계 시 보안 리스크 큼"
+    }
+  },
+  {
     "id": "url-3d0ca58cc70297c6",
     "title": "“신입 대신 50~60대”…AI 일자리 변동 ‘시작’ [9시 뉴스] / KBS 2026.05.18.",
     "source": "youtube",
@@ -34,7 +84,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-19T10:22:21+09:00",
-    "updatedAt": "2026-05-19T10:22:21+09:00",
+    "updatedAt": "2026-05-19T20:08:30+09:00",
     "notes": [],
     "criteria": {
       "duplicate": false,
@@ -81,7 +131,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T21:12:17+09:00",
-    "updatedAt": "2026-05-19T10:22:21+09:00",
+    "updatedAt": "2026-05-19T20:08:30+09:00",
     "notes": [],
     "criteria": {
       "duplicate": false,
@@ -117,7 +167,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T19:57:34+09:00",
-    "updatedAt": "2026-05-19T10:22:21+09:00",
+    "updatedAt": "2026-05-19T20:08:30+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -146,7 +196,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-18T19:00:00+09:00",
-    "updatedAt": "2026-05-19T10:22:21+09:00",
+    "updatedAt": "2026-05-19T20:08:30+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -183,7 +233,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-18T13:20:24+09:00",
-    "updatedAt": "2026-05-19T10:22:21+09:00",
+    "updatedAt": "2026-05-19T20:08:30+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -220,7 +270,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-18T10:02:00+09:00",
-    "updatedAt": "2026-05-19T10:22:21+09:00",
+    "updatedAt": "2026-05-19T20:08:30+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -263,7 +313,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T00:06:45+09:00",
-    "updatedAt": "2026-05-19T10:22:21+09:00",
+    "updatedAt": "2026-05-19T20:08:30+09:00",
     "notes": [
       "외부 SaaS 연동은 권한과 민감정보 위험을 별도 검토한다.",
       "이미 구현된 Telegram/profile/cron 구조와 중복되는 제안은 제외한다.",
@@ -311,7 +361,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T00:06:45+09:00",
-    "updatedAt": "2026-05-19T10:22:21+09:00",
+    "updatedAt": "2026-05-19T20:08:30+09:00",
     "notes": [
       "신규 학습자료: 기존 data/digests.json에 없던 YouTube 영상.",
       "핵심 아이디어: 목표, 완료 조건, 테스트 방법을 함께 주면 에이전트가 장시간 자율 작업을 더 안전하게 수행한다.",
@@ -347,7 +397,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-17T20:20:00+09:00",
-    "updatedAt": "2026-05-19T10:22:21+09:00",
+    "updatedAt": "2026-05-19T20:08:30+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -371,7 +421,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-17T19:40:00+09:00",
-    "updatedAt": "2026-05-19T10:22:21+09:00",
+    "updatedAt": "2026-05-19T20:08:30+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -400,7 +450,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-16T09:00:00+09:00",
-    "updatedAt": "2026-05-19T10:22:21+09:00",
+    "updatedAt": "2026-05-19T20:08:30+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -437,7 +487,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T09:00:00+09:00",
-    "updatedAt": "2026-05-19T10:22:21+09:00",
+    "updatedAt": "2026-05-19T20:08:30+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -474,7 +524,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T09:00:00+09:00",
-    "updatedAt": "2026-05-19T10:22:21+09:00",
+    "updatedAt": "2026-05-19T20:08:30+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -511,7 +561,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T05:30:00+09:00",
-    "updatedAt": "2026-05-19T10:22:21+09:00",
+    "updatedAt": "2026-05-19T20:08:30+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -548,7 +598,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-13T20:00:00+09:00",
-    "updatedAt": "2026-05-19T10:22:21+09:00",
+    "updatedAt": "2026-05-19T20:08:30+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
