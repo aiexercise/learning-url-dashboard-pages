@@ -1,5 +1,190 @@
 [
   {
+    "id": "url-03e0e0ace490669f",
+    "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+    "source": "web",
+    "sourceLabel": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "summary": "AI 관련 신규 기사입니다. 원문 확인 후 세부 요약을 보강하세요.",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "Google DeepMind Blog",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-05-22T04:46:42+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
+  },
+  {
+    "id": "url-57b488d288c29800",
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "source": "web",
+    "sourceLabel": "OpenAI Blog",
+    "url": "https://openai.com/index/adventhealth",
+    "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "OpenAI Blog",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-05-21T21:00:00+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
+  },
+  {
+    "id": "url-e21fdfc386bca24c",
+    "title": "카카오, 구글 딥마인드와 손잡고 AI 콘텐츠 투명성 강화 나선다…‘신스ID(SynthID)’ 도입 - AI포스트",
+    "source": "web",
+    "sourceLabel": "Google News AI",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CRlB1SnNZYU9Na2VnQ0RlTUR1SE9UN1REdzFxMEdwdGtZVUkzQ09YemxaR2pfVW5qdUtvWDYtTXByOUpCYW9GMXo4ejFpdG1UbS1MeUJRMXRDN25yYTdVcFdVNExpbWZmNXNHbExDVC1fQdIBckFVX3lxTE9CRlB1SnNZYU9Na2VnQ0RlTUR1SE9UN1REdzFxMEdwdGtZVUkzQ09YemxaR2pfVW5qdUtvWDYtTXByOUpCYW9GMXo4ejFpdG1UbS1MeUJRMXRDN25yYTdVcFdVNExpbWZmNXNHbExDVC1fQQ?oc=5",
+    "summary": "카카오, 구글 딥마인드와 손잡고 AI 콘텐츠 투명성 강화 나선다…‘신스ID(SynthID)’ 도입 AI포스트",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "Google News AI",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-05-21T19:28:45+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
+  },
+  {
+    "id": "url-c954bbfcb905c302",
+    "title": "CCP게임즈, '펜리스 크리에이션스'로 새출발…구글 딥마인드와 AI 협력 - 인벤",
+    "source": "web",
+    "sourceLabel": "Google News AI",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02aE00VTg3bUxLUlBnRm5rSEcwcW9HTkdYYXo2UWRyQjF1VXpOVXFVbm1WejlIYzlsTkVwa2JKUHMzLWhEMkJFR01KeTlPWkxsektZdnpqQmNxRHkzT3pwUmE5eHBpMnNxWG44ZGVMcXE?oc=5",
+    "summary": "CCP게임즈, '펜리스 크리에이션스'로 새출발…구글 딥마인드와 AI 협력 인벤",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "Google News AI",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-05-21T16:26:02+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
+  },
+  {
+    "id": "url-758734e7229f5412",
+    "title": "조훈현·이창호 사제 바둑 대결 참전하는 AI '카타고' 정체는? - 네이트",
+    "source": "web",
+    "sourceLabel": "Google News AI",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqcW53SGs2LUp4bGl4RHhpOTJzVWdJRnMtczJrRjdNaEZDS0NSNzV4d2dNT1dOMnczNDQySGlkOWkyYmRVY0pBNW1NVXh3dDlDODZpbG1oR3BhWmNF?oc=5",
+    "summary": "조훈현·이창호 사제 바둑 대결 참전하는 AI '카타고' 정체는? 네이트",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "Google News AI",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-05-21T13:58:00+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
+  },
+  {
     "id": "url-f4c49be4867bed0a",
     "title": "Google Targets the AI Video Race With Gemini Omni as OpenAI Pulls Back - kmjournal.net",
     "source": "web",
@@ -24,7 +209,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-20T16:24:26+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -61,7 +246,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-20T13:32:00+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -110,7 +295,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-20T12:29:58+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "한국어 자막은 없어서 영어 transcript와 yt-dlp 메타데이터 기준으로 처리함.",
       "Hermes 자체 업데이트 소개 영상이므로 현재 상현님 설치 버전에서 실제 지원 여부는 별도 확인 필요."
@@ -148,7 +333,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-20T09:43:00+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -185,7 +370,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-20T09:23:00+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -222,7 +407,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-20T09:00:00+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -259,7 +444,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-20T05:12:00+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -296,7 +481,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-20T03:26:51+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -345,7 +530,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-19T20:08:30+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "한국어 자막은 없어서 영어 transcript와 yt-dlp 메타데이터 기준으로 처리함.",
       "유출 기반·홍보성 표현이 강하므로 공식 발표 후 재확인 필요."
@@ -383,7 +568,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-19T19:45:00+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -430,7 +615,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-19T10:22:21+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [],
     "criteria": {
       "duplicate": false,
@@ -465,7 +650,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-19T08:27:09+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -514,7 +699,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T21:12:17+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [],
     "criteria": {
       "duplicate": false,
@@ -550,7 +735,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T19:57:34+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -579,7 +764,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-18T19:00:00+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -616,7 +801,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-18T13:20:24+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -653,7 +838,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-18T10:02:00+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -696,7 +881,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T00:06:45+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "외부 SaaS 연동은 권한과 민감정보 위험을 별도 검토한다.",
       "이미 구현된 Telegram/profile/cron 구조와 중복되는 제안은 제외한다.",
@@ -744,7 +929,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T00:06:45+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "신규 학습자료: 기존 data/digests.json에 없던 YouTube 영상.",
       "핵심 아이디어: 목표, 완료 조건, 테스트 방법을 함께 주면 에이전트가 장시간 자율 작업을 더 안전하게 수행한다.",
@@ -780,7 +965,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-17T20:20:00+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -804,7 +989,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-17T19:40:00+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -833,7 +1018,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-16T09:00:00+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -870,7 +1055,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T09:00:00+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -907,7 +1092,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T09:00:00+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -944,7 +1129,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T05:30:00+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -981,7 +1166,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-13T20:00:00+09:00",
-    "updatedAt": "2026-05-21T07:10:24+09:00",
+    "updatedAt": "2026-05-22T07:10:38+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
