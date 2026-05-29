@@ -1,5 +1,42 @@
 [
   {
+    "url": "https://www.youtube.com/watch?v=zwV5p1L0COI",
+    "title": "I Built an AI Hacking Team with Hermes Agent (And YOU can too)",
+    "source": "youtube",
+    "sourceLabel": "YouTube",
+    "summary": "Hermes Agent를 클라우드·Telegram·dashboard·Kanban으로 구성해 AI 작업팀처럼 운영하는 영상. 단, 예시가 SMS 스푸핑/위치추적/jailbreak라 실행 대상이 아니라 권한·승인·감사 경계 학습자료로 보류.",
+    "application": "부분 적용 후보: Hermes 설치/대시보드 개념은 이미 구현됨. 새로 적용할 것은 위험 작업 승인 체크리스트와 sensitiveRisk 표시.",
+    "status": "보류",
+    "tags": [
+      "Hermes",
+      "AI agent",
+      "security",
+      "governance",
+      "YouTube"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "duration": "29:11",
+    "createdAt": "2026-05-29T18:37:13+09:00",
+    "notes": [
+      "공격 실행 절차는 보존하지 않음",
+      "외부 발송/위치정보/토큰/권한 위험 높음"
+    ],
+    "criteria": {
+      "alreadyImplemented": "부분 구현됨",
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "높음: SMS 스푸핑, 위치 추적, jailbreak, Telegram bot/cloud 권한"
+    },
+    "id": "url-c942e8bbb858c16a",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "updatedAt": "2026-05-29T18:37:13+09:00"
+  },
+  {
     "id": "url-e7c223949878f8b0",
     "title": "Anthropic 공동 설립자, 교황에게 AI 모델 안에 \"불안한\" 숨겨진 행동들이 있다고 말하다 - Yellow.com",
     "source": "web",
