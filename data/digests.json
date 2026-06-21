@@ -1,5 +1,190 @@
 [
   {
+    "id": "url-e0470bf624b894c1",
+    "title": "고담이 되어가다 - AI 코리아 커뮤니티 뉴스레터",
+    "source": "web",
+    "sourceLabel": "Google News AI",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1McDAwbFN2aGtLcEEzWW1oOXlqYnZWZ3o3aTJub2F1WHo5Wmd2N0hEMXJBUDIzU0R2VHJ6MTd6LVBIa19jSEVmTzI0RFN2V1gyMDBrZmdKT1hjY180M0xlZQ?oc=5",
+    "summary": "고담이 되어가다 AI 코리아 커뮤니티 뉴스레터",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "Google News AI",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-06-22T06:02:23+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
+  },
+  {
+    "id": "url-231fab9ae662dd0f",
+    "title": "[이제는 전력반도체]⑨‘인터넷의 심장’ 데이터센터, AI 시대의 전력 폭발을 막아설 ‘방패’는 - 알파경제",
+    "source": "web",
+    "sourceLabel": "Google News AI",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtX3FVX2NjZTlQd1g3VFdieGJMakduc1JmVDZqQlhIWDBhZjVkNExxanFJUHJheEZlQjZ4U2pWLVd3amdheUhULU91eHNhTnNmUldQUXlYTGFEQ0dZRW51TzBjQWoxaGhlUjZDNTdn?oc=5",
+    "summary": "[이제는 전력반도체]⑨‘인터넷의 심장’ 데이터센터, AI 시대의 전력 폭발을 막아설 ‘방패’는 알파경제",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "Google News AI",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-06-21T12:27:50+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
+  },
+  {
+    "id": "url-eccff9ee142d2dfb",
+    "title": "엔비디아, 로컬 AI 위한 구글 딥마인드 디퓨전젬마 가속화 > 뉴스 - 브레인박스",
+    "source": "web",
+    "sourceLabel": "Google News AI",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NeXg1RkxQMDRGVFNaNXM0Y3lrSktzdFJwTENzUGEtRC1rRC1PV3ZYd20wODI3VVlSUDRJU3ZCWjZpTWx5Y0FURzRyMENDZHg1b2J4Ry10VGV3bG90MF84dnh4cTlDLVdPbGViRXlKdjRCVHdNS1o4d3hGY01wZw?oc=5",
+    "summary": "엔비디아, 로컬 AI 위한 구글 딥마인드 디퓨전젬마 가속화 > 뉴스 브레인박스",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "Google News AI",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-06-21T12:14:00+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
+  },
+  {
+    "id": "url-f2ae7f5e4e0226bf",
+    "title": "Gemini! 70 개 언어를 0.1 초에 동시통역한다 - 브런치",
+    "source": "web",
+    "sourceLabel": "Google News AI",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9YRU1qZzVHRWtvZVBpM2xTc1V5WmhFeGdIeTc5TERBVzdlTzBIWWRXdUdXYlVjUFBDLU5EdEVPdkluSzZ1UkE?oc=5",
+    "summary": "Gemini! 70 개 언어를 0.1 초에 동시통역한다 브런치",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "Google News AI",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-06-21T10:07:18+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
+  },
+  {
+    "id": "url-e0dd642eb5ecec42",
+    "title": "집착을 예술로 만든 대런 아로노프스키, AI 스튜디오로 할리우드를 뒤흔다 - Martin Cid Magazine",
+    "source": "web",
+    "sourceLabel": "Google News AI",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUM0lpYkhoS1c2d0w5MVhCeGNERkZkX0lBU0tSd2hIdTM3ak1NSDZPeDg3VjV2dVNhQzluUnBiTVhlZnZrcllPa2JkTFhJUUNsUktpUFFYUXBIc050Q1lRLXpR?oc=5",
+    "summary": "집착을 예술로 만든 대런 아로노프스키, AI 스튜디오로 할리우드를 뒤흔다 Martin Cid Magazine",
+    "application": "AI 동향 관찰·리서치 후보입니다. 상현님 시스템 적용 여부는 영향도/중복/1주 실험 가능성 기준으로 후속 판단합니다.",
+    "duration": "",
+    "tags": [
+      "AI",
+      "news",
+      "Google News AI",
+      "기술구현",
+      "지식관리"
+    ],
+    "domains": [
+      "기술구현",
+      "지식관리"
+    ],
+    "status": "신규",
+    "read": false,
+    "saved": false,
+    "failed": false,
+    "createdAt": "2026-06-21T08:26:27+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
+    "notes": [
+      "자동 수집: 내일 아침 AI 기사 cron 후보",
+      "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
+    ],
+    "criteria": {
+      "alreadyImplemented": false,
+      "reducesRepeatedWork": true,
+      "oneWeekExperiment": true,
+      "sensitiveRisk": "낮음: 공개 RSS/뉴스 URL만 저장"
+    }
+  },
+  {
     "id": "url-2855fee27a9406fa",
     "title": "언어모델 이후, AI 장착한 휴머노이드 성큼 다가와 - 세상을 바꾸는 시민언론 민들레",
     "source": "web",
@@ -24,7 +209,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-19T17:30:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -61,7 +246,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-19T13:42:44+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -98,7 +283,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-19T11:28:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -135,7 +320,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-19T08:46:08+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -172,7 +357,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-19T07:03:44+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -209,7 +394,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-19T02:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -246,7 +431,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-18T20:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -283,7 +468,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-18T17:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -320,7 +505,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-18T14:24:42+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -357,7 +542,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-17T19:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -394,7 +579,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-17T15:34:09+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -431,7 +616,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-17T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -468,7 +653,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-17T06:29:50+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -505,7 +690,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-16T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -542,7 +727,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-16T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -579,7 +764,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-15T14:42:01+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -616,7 +801,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-15T11:14:02+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -653,7 +838,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-15T10:58:32+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -690,7 +875,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-15T09:54:10+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -727,7 +912,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-15T02:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -764,7 +949,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-13T23:57:46+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -801,7 +986,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-13T22:52:15+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -838,7 +1023,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-13T13:53:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -875,7 +1060,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-13T08:25:39+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -912,7 +1097,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-12T19:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -949,7 +1134,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-12T15:33:14+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -986,7 +1171,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-12T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1023,7 +1208,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-12T05:58:33+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1060,7 +1245,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-11T17:08:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1097,7 +1282,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-11T13:55:47+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1134,7 +1319,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-11T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1171,7 +1356,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-11T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1208,7 +1393,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-11T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1245,7 +1430,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-11T01:24:11+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1282,7 +1467,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-10T21:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1319,7 +1504,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-10T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1356,7 +1541,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-10T00:16:25+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1393,7 +1578,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-09T23:10:19+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1430,7 +1615,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-09T23:02:33+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1467,7 +1652,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-09T21:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1504,7 +1689,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-08T23:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1541,7 +1726,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-08T10:30:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1578,7 +1763,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-08T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1615,7 +1800,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-08T00:42:17+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1652,7 +1837,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-06T07:32:51+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1689,7 +1874,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-04T22:46:13+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1726,7 +1911,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-04T21:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1763,7 +1948,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-04T19:33:05+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1800,7 +1985,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-04T16:18:45+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1837,7 +2022,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-04T13:35:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1874,7 +2059,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-04T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1911,7 +2096,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-03T22:15:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1948,7 +2133,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-03T21:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -1985,7 +2170,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-03T19:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2022,7 +2207,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-03T19:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2059,7 +2244,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-03T16:51:06+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2096,7 +2281,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-03T00:10:04+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2133,7 +2318,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-02T21:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2170,7 +2355,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-02T18:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2207,7 +2392,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-02T16:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2244,7 +2429,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-02T15:02:12+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2281,7 +2466,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-01T21:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2318,7 +2503,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-01T20:14:10+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2355,7 +2540,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-01T19:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2392,7 +2577,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-06-01T17:54:31+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2429,7 +2614,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-31T08:00:18+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2466,7 +2651,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-29T21:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2503,7 +2688,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-29T21:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2542,7 +2727,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-29T18:37:13+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "공격 실행 절차는 보존하지 않음",
       "외부 발송/위치정보/토큰/권한 위험 높음"
@@ -2579,7 +2764,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-29T12:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2616,7 +2801,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-29T09:42:37+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2653,7 +2838,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-29T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2690,7 +2875,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-28T13:03:06+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2727,7 +2912,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-28T12:31:26+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2764,7 +2949,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-28T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2801,7 +2986,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-27T20:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2838,7 +3023,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-27T16:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2875,7 +3060,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-27T11:08:41+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2912,7 +3097,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-27T10:51:59+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2949,7 +3134,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-27T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -2986,7 +3171,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-26T18:51:37+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3023,7 +3208,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-26T16:47:12+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3060,7 +3245,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-26T16:00:36+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3097,7 +3282,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-25T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3134,7 +3319,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-24T09:49:27+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3171,7 +3356,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-23T13:46:03+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3208,7 +3393,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-22T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3245,7 +3430,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-22T04:46:42+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3282,7 +3467,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-21T21:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3319,7 +3504,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-21T19:28:45+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3356,7 +3541,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-21T16:26:02+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3393,7 +3578,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-21T13:58:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3430,7 +3615,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-20T16:24:26+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3467,7 +3652,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-20T13:32:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3516,7 +3701,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-20T12:29:58+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "한국어 자막은 없어서 영어 transcript와 yt-dlp 메타데이터 기준으로 처리함.",
       "Hermes 자체 업데이트 소개 영상이므로 현재 상현님 설치 버전에서 실제 지원 여부는 별도 확인 필요."
@@ -3554,7 +3739,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-20T09:43:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3591,7 +3776,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-20T09:23:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3628,7 +3813,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-20T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3665,7 +3850,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-20T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3702,7 +3887,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-20T05:12:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3739,7 +3924,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-20T03:26:51+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3788,7 +3973,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-19T20:08:30+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "한국어 자막은 없어서 영어 transcript와 yt-dlp 메타데이터 기준으로 처리함.",
       "유출 기반·홍보성 표현이 강하므로 공식 발표 후 재확인 필요."
@@ -3826,7 +4011,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-19T19:45:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3873,7 +4058,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-19T10:22:21+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [],
     "criteria": {
       "duplicate": false,
@@ -3908,7 +4093,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-19T08:27:09+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -3957,7 +4142,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T21:12:17+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [],
     "criteria": {
       "duplicate": false,
@@ -3993,7 +4178,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T19:57:34+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -4022,7 +4207,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-18T19:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -4059,7 +4244,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-18T13:20:24+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -4096,7 +4281,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-18T10:02:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -4139,7 +4324,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T00:06:45+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "외부 SaaS 연동은 권한과 민감정보 위험을 별도 검토한다.",
       "이미 구현된 Telegram/profile/cron 구조와 중복되는 제안은 제외한다.",
@@ -4187,7 +4372,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-18T00:06:45+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "신규 학습자료: 기존 data/digests.json에 없던 YouTube 영상.",
       "핵심 아이디어: 목표, 완료 조건, 테스트 방법을 함께 주면 에이전트가 장시간 자율 작업을 더 안전하게 수행한다.",
@@ -4223,7 +4408,7 @@
     "saved": true,
     "failed": false,
     "createdAt": "2026-05-17T20:20:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -4247,7 +4432,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-17T19:40:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [],
     "criteria": {}
   },
@@ -4276,7 +4461,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-16T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -4313,7 +4498,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -4350,7 +4535,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T09:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -4387,7 +4572,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-15T05:30:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
@@ -4424,7 +4609,7 @@
     "saved": false,
     "failed": false,
     "createdAt": "2026-05-13T20:00:00+09:00",
-    "updatedAt": "2026-06-21T07:11:38+09:00",
+    "updatedAt": "2026-06-22T07:11:25+09:00",
     "notes": [
       "자동 수집: 내일 아침 AI 기사 cron 후보",
       "투자 판단이 아니라 관찰·리서치·리스크 체크로만 사용"
